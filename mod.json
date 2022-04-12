@@ -10,14 +10,14 @@
   "coverImage": "cover.png",
   "dependencies": [
     {
-      "version": "^0.5.0",
+      "version": "^0.6.0",
       "id": "tracks",
-      "downloadIfMissing": "https://github.com/StackDoubleFlow/Tracks/releases/download/v0.5.2/tracks.qmod"
+      "downloadIfMissing": "https://github.com/DoAPandora/Tracks/releases/download/v0.6.0/Tracks.qmod"
     },
     {
-      "version": "^0.16.0",
+      "version": "^0.16.3",
       "id": "custom-json-data",
-      "downloadIfMissing": "https://github.com/StackDoubleFlow/CustomJSONData/releases/download/v0.16.0/custom-json-data.qmod"
+      "downloadIfMissing": "https://github.com/DoAPandora/CustomJSONData/releases/download/v0.16.3/CustomJsonData.qmod"
     },
     {
       "version": "^0.22.0",
