@@ -4,7 +4,7 @@
   "info": {
     "name": "Noodle Extensions",
     "id": "NoodleExtensions",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "url": null,
     "additionalData": {
       "overrideSoName": "libnoodleextensions.so"
@@ -13,7 +13,7 @@
   "dependencies": [
     {
       "id": "beatsaber-hook",
-      "versionRange": "^3.6.0",
+      "versionRange": "^3.7.4",
       "additionalData": {
         "extraFiles": [
           "src/inline-hook"
@@ -22,12 +22,12 @@
     },
     {
       "id": "codegen",
-      "versionRange": "^0.20.0",
+      "versionRange": "^0.22.0",
       "additionalData": {}
     },
     {
       "id": "custom-types",
-      "versionRange": "^0.15",
+      "versionRange": "^0.15.9",
       "additionalData": {
         "includeQmod": false
       }
@@ -39,14 +39,14 @@
     },
     {
       "id": "questui",
-      "versionRange": "<=0.13.2",
+      "versionRange": "<=0.13.5",
       "additionalData": {
         "includeQmod": false
       }
     },
     {
       "id": "config-utils",
-      "versionRange": "^0.7.0",
+      "versionRange": "^0.7.2",
       "additionalData": {}
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "id": "pinkcore",
-      "versionRange": "^1.6.0",
+      "versionRange": "^1.6.7",
       "additionalData": {
         "includeQmod": false
       }
@@ -82,7 +82,7 @@
     },
     {
       "id": "songloader",
-      "versionRange": "^0.8.0",
+      "versionRange": "^0.9.3",
       "additionalData": {
         "includeQmod": false
       }
