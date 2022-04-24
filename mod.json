@@ -12,12 +12,12 @@
     {
       "version": "^0.6.0",
       "id": "tracks",
-      "downloadIfMissing": "https://github.com/DoAPandora/Tracks/releases/download/v0.6.0/Tracks.qmod"
+      "downloadIfMissing": "https://github.com/StackDoubleFlow/Tracks/releases/download/v0.4.6/tracks.qmod"
     },
     {
       "version": "^0.16.3",
       "id": "custom-json-data",
-      "downloadIfMissing": "https://github.com/DoAPandora/CustomJSONData/releases/download/v0.16.3/CustomJsonData.qmod"
+      "downloadIfMissing": "https://github.com/StackDoubleFlow/CustomJSONData/releases/download/v0.14.2/custom-json-data.qmod"
     },
     {
       "version": "^0.14.0",
